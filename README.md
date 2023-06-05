@@ -1,2 +1,3 @@
-# LangChain_Agent_bs4
-LangChain Agent + Prompt + bs4 Tools
+# LangChain Agent with bs4 tools
+
+## LangChain Agent + Prompt + bs4 Tools
