@@ -2,4 +2,5 @@
 
 ## LangChain Agent + Prompt + bs4 Tools
 
-Video : https://youtu.be/4iiSPOhCBmw
+
+![LangChain Agent + Prompt + bs4 Tools](https://www.youtube.com/watch?v=4iiSPOhCBmw)
